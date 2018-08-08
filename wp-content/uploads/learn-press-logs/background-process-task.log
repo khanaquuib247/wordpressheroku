@@ -1,0 +1,510 @@
+----------08-08-2018 @ 04:48:26----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => e6c20407f3
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :C:\xampp\htdocs\icicisalesforce\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------08-08-2018 @ 04:48:24----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => e6c20407f3
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :C:\xampp\htdocs\icicisalesforce\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------08-08-2018 @ 04:48:21----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => e6c20407f3
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :C:\xampp\htdocs\icicisalesforce\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------08-06-2018 @ 07:13:43----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => cdaf192686
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :C:\xampp\htdocs\icicisalesforce\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------08-06-2018 @ 07:13:40----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => cdaf192686
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :C:\xampp\htdocs\icicisalesforce\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------08-06-2018 @ 07:13:37----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => cdaf192686
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :C:\xampp\htdocs\icicisalesforce\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------08-03-2018 @ 05:09:00----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 0b55461620
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :C:\xampp\htdocs\icicisalesforce\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------08-03-2018 @ 05:08:55----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 0b55461620
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :C:\xampp\htdocs\icicisalesforce\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------08-03-2018 @ 05:08:50----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 0b55461620
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :C:\xampp\htdocs\icicisalesforce\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------08-02-2018 @ 05:28:50----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 8721eb5ddc
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :C:\xampp\htdocs\icicisalesforce\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------08-02-2018 @ 05:28:48----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 8721eb5ddc
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :C:\xampp\htdocs\icicisalesforce\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------08-02-2018 @ 05:28:45----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 8721eb5ddc
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :C:\xampp\htdocs\icicisalesforce\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------08-01-2018 @ 10:06:26----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 6fedf3d763
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :C:\xampp\htdocs\icicisalesforce\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------08-01-2018 @ 10:06:23----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 6fedf3d763
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :C:\xampp\htdocs\icicisalesforce\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------08-01-2018 @ 10:06:21----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 6fedf3d763
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :C:\xampp\htdocs\icicisalesforce\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------08-01-2018 @ 10:00:41----------
+Array
+(
+    [check_tables] => yes
+)
+Array
+(
+    [action] => lp_lp_installer
+    [nonce] => 087b1eae95
+    [0] => Array
+        (
+            [check_tables] => yes
+        )
+
+)
+
+
+=> file      :C:\xampp\htdocs\icicisalesforce\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------08-01-2018 @ 10:00:40----------
+Array
+(
+    [check_tables] => yes
+)
+Array
+(
+    [action] => lp_lp_installer
+    [nonce] => 087b1eae95
+    [0] => Array
+        (
+            [check_tables] => yes
+        )
+
+)
+
+
+=> file      :C:\xampp\htdocs\icicisalesforce\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------08-01-2018 @ 10:00:39----------
+Array
+(
+    [check_tables] => yes
+)
+Array
+(
+    [action] => lp_lp_installer
+    [nonce] => 087b1eae95
+    [0] => Array
+        (
+            [check_tables] => yes
+        )
+
+)
+
+
+=> file      :C:\xampp\htdocs\icicisalesforce\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------08-01-2018 @ 10:00:39----------
+Array
+(
+    [check_tables] => yes
+)
+Array
+(
+    [action] => lp_lp_installer
+    [nonce] => 087b1eae95
+    [0] => Array
+        (
+            [check_tables] => yes
+        )
+
+)
+
+
+=> file      :C:\xampp\htdocs\icicisalesforce\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------08-01-2018 @ 10:00:38----------
+Array
+(
+    [check_tables] => yes
+)
+Array
+(
+    [action] => lp_lp_installer
+    [nonce] => 087b1eae95
+    [0] => Array
+        (
+            [check_tables] => yes
+        )
+
+)
+
+
+=> file      :C:\xampp\htdocs\icicisalesforce\wp-content\plugins\learnpress\inc\abstracts\abstract-background-process.php
+=> line      :115
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+

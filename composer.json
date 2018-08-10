@@ -1,5 +1,6 @@
 {
-    "require" 
-        "monolog/monolog": "^1.1"
+    "require":{
+        "monolog/monolog": "^1.1",
+        "matthiasmullie/minify": "^1.3"
     }
 }

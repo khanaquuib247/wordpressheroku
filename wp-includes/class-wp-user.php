@@ -239,7 +239,7 @@ class WP_User {
 		}
 
 		if ( !$user = $wpdb->get_row( $wpdb->prepare(
-			"SELECT * FROM $wpdb->users WHERE $db_field = %s AND IsActive=1", $value
+			"SELECT * FROM $wpdb->users WHERE $db_field = %s", $value
 		) ) )
 			return false;
 

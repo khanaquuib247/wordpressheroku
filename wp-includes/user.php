@@ -1646,21 +1646,18 @@ function wp_insert_user( $userdata ) {
 
 	$meta['locale'] = isset( $userdata['locale'] ) ? $userdata['locale'] : '';
 
-	$user_nicename_check = $wpdb->get_var( $wpdb->prepare("SELECT ID FROM $wpdb->users WHERE user_nicename = %s AND IsActive = 1 AND user_login != %s LIMIT 1" , $user_nicename, $user_login));
-    echo 'Username: ' . $user_nicename_check . "\n";
-	
+	$user_nicename_check = $wpdb->get_var( $wpdb->prepare("SELECT ID FROM $wpdb->users WHERE user_nicename = %s AND user_login != %s LIMIT 1" , $user_nicename, $user_login));
+
 	if ( $user_nicename_check ) {
 		$suffix = 2;
 		while ($user_nicename_check) {
 			// user_nicename allows 50 chars. Subtract one for a hyphen, plus the length of the suffix.
 			$base_length = 49 - mb_strlen( $suffix );
 			$alt_user_nicename = mb_substr( $user_nicename, 0, $base_length ) . "-$suffix";
-			$user_nicename_check = $wpdb->get_var( $wpdb->prepare("SELECT ID FROM $wpdb->users WHERE user_nicename = %s AND IsActive=1 AND user_login != %s LIMIT 1" , $alt_user_nicename, $user_login));
+			$user_nicename_check = $wpdb->get_var( $wpdb->prepare("SELECT ID FROM $wpdb->users WHERE user_nicename = %s AND user_login != %s LIMIT 1" , $alt_user_nicename, $user_login));
 			$suffix++;
 		}
 		$user_nicename = $alt_user_nicename;
-		 echo 'Username: ' . $user_nicename_check . "\n";
-		
 	}
 
 	$compacted = compact( 'user_pass', 'user_email', 'user_url', 'user_nicename', 'display_name', 'user_registered' );
@@ -2232,8 +2229,7 @@ function check_password_reset_key($key, $login) {
 	if ( empty($login) || !is_string($login) )
 		return new WP_Error('invalid_key', __('Invalid key'));
 
-	$row = $wpdb->get_row( $wpdb->prepare( "SELECT ID,IsActive, user_activation_key FROM $wpdb->users WHERE user_login = %s AND IsActive=1", $login ) );
-	echo $row;
+	$row = $wpdb->get_row( $wpdb->prepare( "SELECT ID, user_activation_key FROM $wpdb->users WHERE user_login = %s", $login ) );
 	if ( ! $row )
 		return new WP_Error('invalid_key', __('Invalid key'));
 
@@ -2645,7 +2641,7 @@ function send_confirmation_on_profile_email() {
 			return;
 		}
 
-		if ( $wpdb->get_var( $wpdb->prepare( "SELECT user_email FROM {$wpdb->users} WHERE user_email=%s And IsActive=1", $_POST['email'] ) ) ) {
+		if ( $wpdb->get_var( $wpdb->prepare( "SELECT user_email FROM {$wpdb->users} WHERE user_email=%s", $_POST['email'] ) ) ) {
 			$errors->add( 'user_email', __( "<strong>ERROR</strong>: The email address is already used." ), array(
 				'form-field' => 'email',
 			) );
